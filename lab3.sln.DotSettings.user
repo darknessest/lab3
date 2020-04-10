@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/System.Core.dll" /&gt;
+  &lt;Assembly Path="/Users/Alexey/RiderProjects/lab3/packages/Stanford.NLP.CoreNLP.3.9.2.0/lib/stanford-corenlp-3.9.2.dll" /&gt;
+  &lt;Assembly Path="/Users/Alexey/RiderProjects/lab3/packages/Stanford.NLP.CoreNLP.3.9.2.0/lib/slf4j-api.dll" /&gt;
+  &lt;Assembly Path="/Users/Alexey/RiderProjects/lab3/packages/IKVM.8.1.5717.0/lib/IKVM.OpenJDK.Core.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
